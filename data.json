@@ -1,0 +1,63 @@
+[
+  {
+    "placeImage": "images/GOOD_FLIPPIN_BURGERS.jpg",
+    "placeName": "GOOD FLIPPIN' BURGERS",
+    "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+    "minOrder": "30"
+  },
+  {
+    "placeImage": "images/Mainland_China.jpg",
+    "placeName": "Mainland China",
+    "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+    "minOrder": "50"
+  },
+  {
+    "placeImage": "images/Shamiana.jpg",
+    "placeName": "Shamiana",
+    "placeItems": ["Fish Stew","Indian","Mughlia","Desert","Juice"],
+    "minOrder": "50"
+  },
+  {
+    "placeImage": "images/14_41_Pizzeria.jpg",
+    "placeName": "14° 41° Pizzeria",
+    "placeItems": ["Pizza","Chinese","Fast Food","Italian","Juice"],
+    "minOrder": "30"
+  },
+  {
+    "placeImage": "images/Mystique_Delight.jpg",
+    "placeName": "Mystique Delight",
+    "placeItems": ["Pestries","Italian","Western","Desert","Juice"],
+    "minOrder": "30"
+  },
+  {
+    "placeImage": "images/bluehill.jpg",
+    "placeName": "Blue Hill",
+    "placeItems": ["Stakes","Spainish","BBQ","Lamb","Lebanese","Soda"],
+    "minOrder": "60"
+  },
+  {
+    "placeImage": "images/The_Foo.jpg",
+    "placeName": "The Foo",
+    "placeItems": ["Sushi","Japanese","Mughlia","Desert","Juice"],
+    "minOrder": "50"
+  },
+  {
+    "placeImage": "images/Sassy_Spoon.jpg",
+    "placeName": "Sassy Spoon",
+    "placeItems": ["Geleto","Italian","Smoothie","Desert","Juice"],
+    "minOrder": "30"
+  },
+  {
+    "placeImage": "images/Sequel.jpg",
+    "placeName": "Sequel",
+    "placeItems": ["Salad","Mongolian","Organic","Meat","Mojito"],
+    "minOrder": "40"
+  },
+  {
+    "placeImage": "images/Behrouz.jpg",
+    "placeName": "Behrouz",
+    "placeItems": ["Biryani","Mughlia","Kebab","Sweets","Sarbat"],
+    "minOrder": "60"
+  }
+]
+
